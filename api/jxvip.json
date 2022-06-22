@@ -2,7 +2,7 @@
   "apiList": [
     {
       "name": "默认",
-      "url": "https://jx.clg.kim/?url="
+      "url": "https://x3.clg.kim/?url="
     },
     {
       "name": "线路一",
@@ -10,10 +10,14 @@
     },
     {
       "name": "线路二",
-      "url": "https://nbjx.vip/?url="
+      "url": "https://jx.aidouer.net/?url="
     },
     {
       "name": "线路三",
+      "url": "https://nbjx.vip/?url="
+    },
+    {
+      "name": "线路四",
       "url": "https://z1.m1907.cn/?jx="
     }
   ],
