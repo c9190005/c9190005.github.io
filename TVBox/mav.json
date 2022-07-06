@@ -31,7 +31,7 @@
 {"key": "天噜啦资源", "name": "天噜啦资源", "type": 0, "api": "http://www.987caiji.com/api/max.php", "searchable": 1, "quickSearch": 1, "filterable": 0},
 {"key": "52AVAV", "name": "52AVAV", "type": 0, "api": "https://52zyapi.com/home/cjapi/asda/mc/vod/xml", "searchable": 1, "quickSearch": 1, "filterable": 0},
 {"key": "速度资源", "name": "速度资源", "type": 0, "api": "http://www.ggmmzy.com:9999/inc/xml", "searchable": 0, "quickSearch": 1, "filterable": 0},
-{"key":"玖玖资源","name":"玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
+{"key":"玖玖资源","name":"玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0}
 //{"key": "小湿妹资源", "name": "小湿妹资源", "type": 1, "api": "https://www.afasu.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 0},
 //{"key": "香奶儿资源", "name": "香奶儿资源", "type": 1, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 0},
 //{"key": "白嫖资源", "name": "白嫖资源", "type": 1, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 0},
@@ -47,7 +47,6 @@
 //{"key": "99资源吧", "name": "99资源吧", "type": 0, "api": "http://99zyba.com/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0},
 //{"key": "富二代资源", "name": "富二代资源", "type": 0, "api": "http://f2dcj6.com/sapi/?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0},
 //{"key": "利来资源", "name": "利来资源", "type": 0, "api": "http://llzxcj.com/inc/api.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0}
- {"key": "富二代资源", "name": "富二代资源", "type": 0, "api": "https://c9190005.github.io/TVBox/f2d.php", "searchable": 1, "quickSearch": 1, "filterable": 0}
 ],
   "parses": [
   {"name":"解析聚合","type":3,"url":"Demo"},
