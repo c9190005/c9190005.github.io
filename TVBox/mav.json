@@ -32,7 +32,7 @@
 {"key": "52AVAV", "name": "52AVAV", "type": 0, "api": "https://52zyapi.com/home/cjapi/asda/mc/vod/xml", "searchable": 1, "quickSearch": 1, "filterable": 0},
 {"key": "速度资源", "name": "速度资源", "type": 0, "api": "http://www.ggmmzy.com:9999/inc/xml", "searchable": 0, "quickSearch": 1, "filterable": 0},
 {"key":"玖玖资源","name":"玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
-{"key": "富二代资源", "name": "富二代资源", "type": 0, "api": "http://hnan.ueuo.com/f2d.php", "searchable": 1, "quickSearch": 1, "filterable": 0}
+{"key":"富二代资源","name":"富二代资源","type":0,"api":"http://f2dcj6.com/sapi/?ac=videolist","playUrl":"","categories":[],"quickSearch":0}
 
 //{"key": "小湿妹资源", "name": "小湿妹资源", "type": 1, "api": "https://www.afasu.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 0},
 //{"key": "香奶儿资源", "name": "香奶儿资源", "type": 1, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 0},
