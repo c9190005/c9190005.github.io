@@ -2,7 +2,6 @@
 "spider":"https://raw.fastgit.org/c9190005/c9190005.github.io/main/TVBox/spider.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jOTE5MDAwNS5naXRodWIuaW8vVFZCb3gvYXZsaXZlLnR4dA=="]}]}],
 "sites": [
-{"key": "富二代资源", "name": "富二代资源", "type": 0, "api": "http://hnan.ueuo.com/f2d.php", "searchable": 1, "quickSearch": 1, "filterable": 0},
 {"key": "寰亞粢羱", "name": "寰亞粢羱", "type": 0, "api": "http://wmcj8.com/inc/sapi.php", "playUrl": "", "categories": [ ]},
 {"key": "博天堂", "name": "博天堂", "type": 0, "api": "http://bttcj.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0},
 {"key":"秀色资源","name":"秀色资源","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
