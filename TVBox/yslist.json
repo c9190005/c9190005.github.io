@@ -1,6 +1,7 @@
 {
 //"spider":"http://hnan.ueuo.com/TVBox/custom_spider.jar",
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/c9190005/c9190005.github.io/main/TVBox/custom_spider.zip",
+//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/c9190005/c9190005.github.io/main/TVBox/custom_spider.zip",
+"spider":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/c9190005/c9190005.github.io/main/TVBox/custom_spider.zip",
 "wallpaper": "https://bg.s.welsun.win/api",
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
