@@ -2,7 +2,7 @@
 // spider
 //"spider":"https://c9190005.github.io/TVBox/spider.jar",
 #
-"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
+"spider":"http://hnan.ueuo.com/TVBox/custom_spider.jar",
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jOTE5MDAwNS5naXRodWIuaW8vVFZCb3gvbGl2ZS50eHQ="]}]}],
 "sites":[
